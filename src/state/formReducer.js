@@ -1,13 +1,13 @@
-import { actionTypes } from "./actionTypes";
+import { actionTypes } from './actionTypes';
 
 export const initialState = {
-  firstName: "",
-  lastName: "",
-  email: "",
-  gender: "",
-  education: "",
+  firstName: '',
+  lastName: '',
+  email: '',
+  gender: '',
+  education: '',
   quantity: 0,
-  feedback: "",
+  feedback: '',
   term: false,
 };
 
